@@ -325,5 +325,3 @@ http://localhost:8066/swagger-ui/index.html
 - Roles (Admin, Cliente, Técnico)  
 - Dashboard con métricas  
 
-# FIreX-Hub
-# FIreX-Hub
